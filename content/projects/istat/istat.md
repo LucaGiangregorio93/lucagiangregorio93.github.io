@@ -1,6 +1,6 @@
 ---
 show_date: false
-title: "Istat-MEF - Side effects of the Italian brain return: profiles of equity and inequality"
+title: Istat-MEF - Side effects of the Italian brain return: profiles of equity and inequality
 
 tags:
 - istat

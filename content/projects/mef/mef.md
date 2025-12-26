@@ -1,6 +1,6 @@
 ---
 show_date: false
-title: "MEF-Sapienza - Citenzship Income and Labour Supply"
+title: MEF-Sapienza - Citenzship Income and Labour Supply
 external_link: ""
 summary: ""
 tags:
