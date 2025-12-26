@@ -10,7 +10,7 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
+draft: true
 ---
 
 I worked as an external consultant for the <a href= https://joint-research-centre.ec.europa.eu/knowledge-research/centre-advanced-studies/digclass_en> 'Social Class in the Digital Age' </a> project developed by the Joint Research Center of Seville. 

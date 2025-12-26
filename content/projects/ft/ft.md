@@ -13,9 +13,8 @@ url_video: ""
 
 ---
 
-VisitINPS research fellowship (type B) with Marta Fana and Michele Raitano on "The impact of domestic outsourcing on wages along the productive structure: evidence from Italian Administrative data".
-Exploiting the matched employer-employee administrative data, we investigate the effects of domestic outsourcing strategy in Italy on wages, intensive, and extensive margin of Italian workers. 
+VisitINPS research with Marta Fana on "The impact of domestic outsourcing on wages along the productive structure: evidence from Italian Administrative data". Exploiting the matched employer-employee administrative data, we investigate the effects of domestic outsourcing strategy in Italy on wages, intensive, and extensive margin of Italian workers. 
 
+![Main empirical result](va_firm_fe.pdf)
 
-Using similar data for Spain (Muestra Continua de Vida Laboral), we investigate whether the 2019 minimum wage increase have differential effects for outsourced vs in-house workers, its reallocation, spillover, employment, and redistributive effects.  
 

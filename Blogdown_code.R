@@ -29,7 +29,7 @@ check_content()
 # Then, committ - check if all files are ticked in green
 # Push - but before pushing we need: 
       # gitcreds::gitcreds_set()
-      # paste the PAT token November 24: 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 
+      # paste the PAT token November 24: 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
 # Then we can push 
 
 ## Netlify! 
