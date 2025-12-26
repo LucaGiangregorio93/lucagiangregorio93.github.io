@@ -1,6 +1,6 @@
 ---
 show_date: false
-title: Administrative Data - VisitINPS and Muestra Continua de Vida Laboral
+title: VisitINPS
 external_link: ""
 summary: ""
 tags:

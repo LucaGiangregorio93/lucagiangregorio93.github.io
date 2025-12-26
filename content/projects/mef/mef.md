@@ -6,6 +6,10 @@ summary: ""
 tags:
 - mef
 type: selected_project
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 ---
 

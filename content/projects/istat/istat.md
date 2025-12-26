@@ -1,9 +1,16 @@
 ---
 show_date: false
 title: Istat-MEF - Side effects of the Italian brain return: profiles of equity and inequality
+external_link: ""
+summary: ""
 tags:
 - istat
 type: selected_project
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
 ---
 
 **with:** Giovanni Gallo and Francesca Subioli. 
