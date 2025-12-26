@@ -1,5 +1,7 @@
 ---
 title: "The dynamics of rent-sharing within firms and between occupations"
+show_date: false
+
 ---
 
 **with:** Marta Fana and Matteo Targa

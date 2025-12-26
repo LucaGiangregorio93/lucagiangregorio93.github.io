@@ -1,5 +1,7 @@
 ---
 title: "Monetary policy and the dynamics of wage inequality: evidence from Spanish administrative data"
+show_date: false
+
 ---
 
 **with:** Giacomo Rella 

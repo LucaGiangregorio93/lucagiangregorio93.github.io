@@ -1,5 +1,7 @@
 ---
 title: "Inheritance Tax Around the Globe Over Two Centuries: Revenue and Distributional Implications"
+show_date: false
+
 ---
 
 

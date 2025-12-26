@@ -1,5 +1,7 @@
 ---
 title: "Rent or not to Rent, that is the Question: The Impact of Rent Controls in Spain’s 2023 Reform"
+show_date: false
+
 ---
 
 
