@@ -5,6 +5,7 @@ external_link: ""
 summary: ""
 tags:
 - mef
+type: selected_project
 
 ---
 

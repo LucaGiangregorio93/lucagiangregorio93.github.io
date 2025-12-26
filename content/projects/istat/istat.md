@@ -4,6 +4,7 @@ title: "Istat-MEF - Side effects of the Italian brain return: profiles of equity
 
 tags:
 - istat
+type: selected_project
 
 
 ---
